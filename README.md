@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi my name is Juran 👋
+
+🏫 2017.03 ~ Sejong University 곧 졸업
+
+📖 Department of Computer Science and Engineering
+
+📌 여기는 내 공부 기록 https://juran-devblog.tistory.com/
+
+💻 Web Backend Development
 
 <!--
 **ijo0r98/ijo0r98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
