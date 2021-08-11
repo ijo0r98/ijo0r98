@@ -1,4 +1,4 @@
-### Hi my name is Juran 👋
+### Hi there 👋
 
 🏫 2017.03 ~ Sejong University 곧 졸업
 
