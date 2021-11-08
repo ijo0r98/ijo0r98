@@ -10,6 +10,8 @@
 
 💻 Web Backend Development
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijo0r98&show_icons=true&theme=onedark)
+
 <br>
 
 🛠 Techs that I've used at least once
@@ -23,7 +25,6 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
 
 
 <!--
