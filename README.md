@@ -2,7 +2,7 @@
 
 <br>
 
-🏫 2017.03 ~ Sejong University 곧 졸업
+🏫 2017.03 ~ 2022.02 Sejong University
 
 📖 Department of Computer Science and Engineering
 
@@ -10,9 +10,10 @@
 
 💻 Web Backend Development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijo0r98&show_icons=true&theme=onedark)
+📈 My Status
 
-<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ijo0r98&show_icons=true&theme=buefy)
+
 
 🛠 Techs that I've used at least once
 
