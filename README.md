@@ -5,6 +5,7 @@
 🏫 2017.03 - 2022.02 세종대학교 | 컴퓨터공학과
 
 📌 여기는 내 공부 기록 https://juran-devblog.tistory.com/
+📍 이제 여기로 옮겨가는 중 .. https://ijo0r98.github.io/
 
 💻 Web Backend Development
 
